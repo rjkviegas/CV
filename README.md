@@ -13,79 +13,155 @@
 
  <div align="center">
  
-[Motivation](#motivation) |
-[Background](#background) |
 [Projects](#projects) |
 [Skills](#skills) |
 [Experience](#experience) |
 [Education](#education) |
-[Interests](#hobbies)
+[Interests](#interests)
 
 </div>
 
-# Motivation
+<p>I am a motivated and ambitious Full Stack Developer who enjoys solving complex problems and helping my team to succeed. I am naturally inquisitive and methodical in my thinking, always aiming to break down problems into small achievable actions. I also hold a MEng(Hons) in Civil Engineering from the University of Loughborough. I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.</p>
 
-Every since I followed the recommendation of a friend to try coding out I became hooked. I started with Khan Academy, Codecademy and attending training workshops. That 6 month period of self learning confirmed to me that coding was what I wanted to do. I felt I was ready for the next step. After surveying the range of bootcamps on offer I decided upon [Makers](https://makers.tech/). Since enrolling my passion for coding has only grown. I have never found something to be so rewarding as writing a test, watching it fail and then making it pass. The philosophy behind TDD, as articulated by proponents like Uncle Bob, resonates with me deeply.
-
-# Background
-
-I'm a problem solver - whether the problem consisted of figuring out the required tensile strength of a steel-reinforced concrete beam, to manipulating my opponent's body during a Brazilian Jiu Jitsu match - I've always relished the opportunity to solve it. I meet all challenges infront of me with 100% effort. Since completion of my Master's degree in Civil Engineering at Loughborough University I dedicated the last 7 years of my life to the martial art/sport of Brazilian Jiu Jitsu. I am very proud to have a European Silver medal to show for my efforts. Prior to Makers I worked as the Gym Manager at one of the biggest mixed martial arts gyms in Europe. The fast-paced every-changing nature of work within the fitness industry is one I excelled within, however the mental stimulation, the challenge and subsequent reward embedded within coding has since engulfed my existence. 
-
-# Projects
+## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Only Fours and Horses Acebook (Facebook)](https://github.com/rjkviegas/acebook-onlyfoursandhorses) [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI & CD |
 
-# Skills
+## Technical Knowledge
 
-I've trained at Makers following **TDD** methodology, in addition to **AGILE** and **XP values**. My experience of training as a full time athlete meant I was well suited to the intensity and discipline required to excel on the 12 week course. REVIEWER: I have shown rigourous application of the TDD design cycle (Red-Green-Refactor) whilst also taking time to ensure my code is as clean as possible.
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Javascript</li>
+          <li>Ruby</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>React</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>jQuery</li>
+          <li>PostgreSQL</li>
+          <li>MondgoDB</li>
+          <li>TravisCI</li>
+          <li>Heroku</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Jest</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object-Oriented Design</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Git</li>
+          <li>OSx</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-## Problem Solving
 
-The blending of maths and physics to solve practical real world problems was what initially convinced me that engineering was for me. For 4 years I was instructed on how to approach problems, how to find multiple solutions and select the most appropriate. It was impressed upon me to benefits of having a holistic perspective to problem solving, to working to end-user requirements and the importance of taking account of all stakeholders wants and needs. The daily managing of a gym that had up to 1500 members has allowed me to seek out new and inventful solutions to constantly improve the gym's performance. My proudest achievement was creating and implementing a new system for increasing prospective member conversion rates, which led to a 52% monthly increase. I have a 3 Star Silver Badge for Problem Solving on Hackerrank.
+## Experience
 
-## Determination
+**[FIGHTZONE LONDON](https://www.fightzonelondon.co.uk/), Manager**
+_(February/2018 - April/2020)_
 
-I view my march through secondary school education, college and then a 4 year university degree as evidence of my determination to complete a goal. My achievements within Brazilian Jiu Jitsu were due to my commitment to constantly improve and learn on a daily basis. I will embrace the challenge my first software developer job will provide me and will look to further my knowledge of programming languages and techniques whilst not at work.
+Responsibilities :
 
-## Interpersonal Skills
+- Managing the day to day activities of London’s biggest mixed martial arts gym
+- Configuration and roll out of the FitSense app (for members to use due to COVID) 
+- Maintenance and management of members databases (Excel)
+- Website maintenance (Squarespace)
 
-Growing up in inner-city London I have always been exposed to a diverse range of people. Whilst at university this was only expanded. My interpersonal skills have been honed whilst working within the fitness industry as you are constaly meeting, befriending and working out with/alongside people from all over the world.
+Key achievements:
 
-# Education
+- Grew the membership total to over 1,500 from 1,000 
+- Design and implementation of free-trial-to-member conversion system
+- Boosted the annual conversion rate by 15% and saw a 52% increase in member signs up in the month of January
+- Creating the Safeguarding policy to ensure best practice to protect the wellbeing of all club members
 
-#### Makers Academy (June to September 2020)
-* Agile Software Development
-* XP Values
-* TDD
-* Languages: Ruby, Javascript (Jquery), HTML/CSS
-* Web Frameworks: Sinatra, Ruby on Rails
-* Databases: PostgreSQL, SQLite
-* Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
-* CI/CD: Travis CI, Heroku
+**[Boom Cycle](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
+_(March/2014 - January/2018)_
 
-#### Loughborough University (2009 to 2013)
+- Production of monthly front of house staff team rotas 
+- Bike maintenance of 100 indoor cycling bikes
+- Coordinating with outside vendors to ensure 2 studios adhered to H&S standards
 
-* MEng Higher Second Class Honours in Civil Engineering
+## Skills
 
-#### City & Islington SIxth Form College (2007 - 2009)
+#### Fast Learner
+- At Makers, we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. ~~For our final group project, we took this a step further and built our project using the MERN stack (MongoDB, Express, React and Node) resulting in a  marketplace connecting sellers and buyers.~~ Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
 
-* A Levels:
-  * Mathematics (A)
-  * English Literature (A)
-  * Physics (B)
-* AS Level:
-  * Biology (C)
-  
-# Experience
+#### Problem Solving
 
-**Fightzone London** (February 2018 - August 2020)    
-*Gym Manager and Assistant Coach*  
+The blending of maths and physics to solve practical real world problems was what initially convinced me that engineering was for me. For 4 years I was instructed on how to break down problems into small achievable actions, how to find multiple solutions and select the most appropriate. It was impressed upon me to benefits of having a holistic perspective to problem solving, to working to end-user requirements and the importance of taking account of all stakeholders wants and needs.  I find this approach to problem solving works best and I have seen the benefits to this approach in software development. I have a 3 Star Silver Badge for Problem Solving on Hackerrank.
 
-**Boom Cycle** (March 2014 - January 2018)   
-*Front Desk Lead and Facilities Manager*  
+#### Determination
 
-# Hobbies
-* Brazilian Jiu Jitsu (Purple Belt)
+My achievement of becoming a European Silver Medalist in the sport of Brazilian Jiu Jitsu was down to my commitment to constantly apply myself to improve and learn on a daily basis. I will embrace the challenge of my first software developer job and will continually look to further my knowledge of programming languages.
+
+
+## Education
+
+**Makers Academy**
+_(June 2020 - September 2020)_
+
+A 16-week intensive development Bootcamp
+
+- The principles of object-oriented design and test-driven development
+- How to write and maintain clean, reliable code
+- Pair-programming (driver-navigator format)
+- How to work in an agile development team with XP values
+- Collaborate on GitHub projects with continuous integration and automated deployment
+
+**Loughborough University**
+_(2009 - 2013)_ 
+- MEng Hons, Civil Engineering
+
+**City & Islington SIxth Form College**
+_(2007 - 2009)_ 
+- A-Levels: Maths(A), English Literature(A), Physics(B)
+
+**Oaklands Secondary School**
+_(2002 - 2007)_ 
+- GCSE: 4 A*'s, 3 A's and 3 B's
+
+## Interests
+* Brazilian Jiu Jitsu (Purple Belt) - [Check out a fight of mine at a recent competition](https://www.youtube.com/watch?v=HnCic_9FHy8)
 * Voracious book reader
-* Plant Based/Vegan Cooking
