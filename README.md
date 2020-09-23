@@ -116,7 +116,7 @@ Key achievements:
 - Boosted the annual conversion rate by 15% and saw a 52% increase in member signs up in the month of January
 - Creating the Safeguarding policy to ensure best practice to protect the wellbeing of all club members
 
-**[Boom Cycle](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
+**[BOOM CYCLE](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
 _(March/2014 - January/2018)_
 
 - Production of monthly front of house staff team rotas 
