@@ -26,7 +26,7 @@
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Only Fours and Horses Acebook (Facebook)](https://github.com/rjkviegas/acebook-onlyfoursandhorses) [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI & CD |
+| [Only Fours and Horses Acebook (Facebook Clone)](https://github.com/rjkviegas/acebook-onlyfoursandhorses) [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI & CD |
 
 ## Technical Knowledge
 
