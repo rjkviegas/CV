@@ -56,12 +56,10 @@
         <ul>
           <li>React</li>
           <li>Node.js</li>
-          <li>Express</li>
           <li>Rails</li>
           <li>Sinatra</li>
           <li>jQuery</li>
           <li>PostgreSQL</li>
-          <li>MondgoDB</li>
           <li>TravisCI</li>
           <li>Heroku</li>
         </ul>
