@@ -128,7 +128,7 @@ _(March/2014 - January/2018)_
 ## Skills
 
 #### Fast Learner
-- At Makers, we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using React. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
+At Makers, we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using React. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
 
 #### Problem Solving
 
