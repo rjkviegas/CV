@@ -26,7 +26,7 @@
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
 |--|--|--|--|--|--|
-| [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 created a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis-CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
+| [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 created a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 | [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
 | [Only Fours and Horses Acebook](https://github.com/rjkviegas/acebook-onlyfoursandhorses)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL| RSpec, Capybara, Travis CI & CD | [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)|
 
