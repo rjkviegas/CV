@@ -104,7 +104,7 @@
 ## Experience
 
 **[FIGHTZONE LONDON](https://www.fightzonelondon.co.uk/), Manager**
-_(February/2018 - April/2020)_
+_(February/2018 - August/2020)_
 
 Responsibilities :
 
