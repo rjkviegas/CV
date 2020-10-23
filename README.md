@@ -28,7 +28,7 @@
 |--|--|--|--|--|--|
 | [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 created a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 | [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
-| [Till Tech Test](https://github.com/rjkviegas/till-tech-test) | A program emulating a receipt dispensing till, built using TDD and showcasing refactoring skills. | 2 days | Nose JS | Jasmine| N/A |
+| [Till Tech Test](https://github.com/rjkviegas/till-tech-test) | A program emulating a receipt dispensing till, built using TDD and showcasing refactoring skills. | 2 days | Node JS | Jasmine| N/A |
 | [Only Fours and Horses Acebook](https://github.com/rjkviegas/acebook-onlyfoursandhorses)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL| RSpec, Capybara, Travis CI & CD | [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)|
 
 ## Technical Knowledge
@@ -112,12 +112,13 @@ Responsibilities :
 - Configuration and roll out of the FitSense app
 - Maintenance and management of members databases (Excel)
 - Website maintenance (Squarespace)
+- Management of online shop
 
 Key achievements:
 
-- Grew the membership total to over 1,500 from 1,000 
-- Design and implementation of free-trial-to-member conversion system
-- Boosted the annual conversion rate by 15% and saw a monthly 52% increase in member signs up
+- Oversaw the membership total grow to over 1,500 from 1,000 
+- Design and implementation of free-trial-to-member conversion system Boosted the annual conversion rate by 15%
+- Introduction of new techologies to improve business processes
 - Creating the Safeguarding policy to ensure best practice to protect the wellbeing of all club members and staff
 
 **[BOOM CYCLE](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
@@ -157,7 +158,7 @@ A 16-week intensive development Bootcamp
 _(2009 - 2013)_ 
 - MEng Hons, Civil Engineering
 
-**City & Islington SIxth Form College**
+**City & Islington Sixth Form College**
 _(2007 - 2009)_ 
 - A-Levels: Maths(A), English Literature(A), Physics(B)
 
@@ -166,5 +167,5 @@ _(2002 - 2007)_
 - GCSE: 4 A*'s, 3 A's and 3 B's
 
 ## Interests
-* Brazilian Jiu Jitsu (Purple Belt), European Silver Medalist - [Check out a fight of mine at a recent competition](https://www.youtube.com/watch?v=HnCic_9FHy8)
-* Voracious book reader
+* European Silver Medalis in the sport of Brazilian Jiu Jitsu, currently a Purple Belt - [Check out a fight of mine at a recent competition](https://www.youtube.com/watch?v=HnCic_9FHy8)
+* Voracious book and Financial Times reader
