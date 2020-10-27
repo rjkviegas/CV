@@ -26,9 +26,9 @@
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
 |--|--|--|--|--|--|
+| [Till Tech Test](https://github.com/rjkviegas/till-tech-test) | A program for creating receipts, built using TDD and showcasing refactoring skills. | 5 days | Node JS | Jasmine & Istanbul| N/A |
 | [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 created a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 | [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
-| [Till Tech Test](https://github.com/rjkviegas/till-tech-test) | A program emulating a receipt dispensing till, built using TDD and showcasing refactoring skills. | 2 days | Node JS | Jasmine| N/A |
 | [Only Fours and Horses Acebook](https://github.com/rjkviegas/acebook-onlyfoursandhorses)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL| RSpec, Capybara, Travis CI & CD | [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)|
 
 ## Technical Knowledge
@@ -92,7 +92,7 @@
         <ul>
           <li>VSCode</li>
           <li>Git</li>
-          <li>OSx</li>
+          <li>OSX</li>
           <li>WSL2</li>
         </ul>
       </td>
@@ -118,8 +118,8 @@ Key achievements:
 
 - Oversaw the membership total grow to over 1,500 from 1,000 
 - Design and implementation of free-trial-to-member conversion system Boosted the annual conversion rate by 15%
-- Introduction of new techologies to improve business processes
-- Creating the Safeguarding policy to ensure best practice to protect the wellbeing of all club members and staff
+- Introduction of new techologies to improve business processes (MailChimp)
+- Creating the Safeguarding policy
 
 **[BOOM CYCLE](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
 _(March/2014 - January/2018)_
@@ -137,9 +137,9 @@ At Makers, we were continually pushed to grow and develop our skills on a daily 
 
 The blending of maths and physics to solve practical real world problems was what initially convinced me that engineering was for me. For 4 years I was instructed on how to break down problems into small achievable actions, how to find multiple solutions and select the most appropriate. It was impressed upon me to benefits of having a holistic perspective to problem solving, to working to end-user requirements and the importance of taking account of all stakeholders wants and needs.  I find this approach to problem solving works best and I have seen the benefits to this approach in software development. I have a 3 Star Silver Badge for Problem Solving on Hackerrank.
 
-#### Determination
+#### Commnuication
 
-My achievement of becoming a European Silver Medalist in the sport of Brazilian Jiu Jitsu was due to my commitment to constantly apply myself to improve and learn on a daily basis. I would routinely train upwards of 5 hours per day and would stay up to date with the latest techniques and strategies to maximise my chance of success at international compeitions. I will embrace the challenge of my first software developer job and will continually look to further my knowledge of programming languages.
+I refined my communication skills when leading a diverse team as Manager of a well established mixed martial arts gym in London. I regularly would teach martial arts to beginners and prided myself on being able to breakdown complex techniques to those new to them. On my latest review my ability to justify the way I worked was described as being 'Strong' and this would allow my development to accelerate around experienced teammates as I could convey clearly why I was doing something the way I was. 
 
 ## Education
 
