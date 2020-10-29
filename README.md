@@ -21,12 +21,12 @@
 
 </div>
 
-<p>I am a motivated and ambitious Full Stack Developer who enjoys solving complex problems and helping my team to succeed. I am naturally inquisitive and methodical in my thinking, always aiming to break down problems into small achievable actions. I hold a MEng(Hons) in Civil Engineering from the University of Loughborough. I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.</p>
+<p>I am a motivated and ambitious Full Stack Developer who enjoys solving complex problems and helping my team succeed. I recently graduated from Makers Academy and am passionate about writing fully tested clean code. I have excellent communication skills which I refined during my career in the fitness industry and I am always breaking down problems into small achievable actions, a trait I developed whilst completing my Masters degree in Civil Engineering. I continue to immerse myself in the world of software development and I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.</p>
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
 |--|--|--|--|--|--|
-| [Till Tech Test](https://github.com/rjkviegas/till-tech-test) | A program for creating receipts, built using TDD and showcasing refactoring skills. | 5 days | Node JS | Jasmine & Istanbul| N/A |
+| [Till Tech Test](https://github.com/rjkviegas/till-tech-test) | A program for creating receipts, built using TDD and showcasing refactoring skills. | 5 days | JavaScript (Node.JS) | Jasmine & Istanbul| N/A |
 | [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 created a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 | [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
 | [Only Fours and Horses Acebook](https://github.com/rjkviegas/acebook-onlyfoursandhorses)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL| RSpec, Capybara, Travis CI & CD | [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)|
@@ -108,38 +108,42 @@ _(February/2018 - August/2020)_
 
 Responsibilities :
 
-- Managing the day to day activities of London’s biggest mixed martial arts gym
-- Configuration and roll out of the FitSense app
-- Maintenance and management of members databases (Excel)
+- Managing the day to day activities of a well established mixed martial arts gym
+- Leading a diverse team
 - Website maintenance (Squarespace)
-- Management of online shop
+- Creation of email campaigns (MailChimp)
+- Maintenance and management of members databases (Excel)
+- Configuration and roll out of gym app (FitSense)
+- Teaching Beginner level martial arts classes
+
 
 Key achievements:
 
-- Oversaw the membership total grow to over 1,500 from 1,000 
-- Design and implementation of free-trial-to-member conversion system Boosted the annual conversion rate by 15%
-- Introduction of new techologies to improve business processes (MailChimp)
+- Oversaw the membership total grow from 1,000 to 1,500
+- Boosted the annual conversion rate by 15%
+- Introduction of new techologies to improve business processes
 - Creating the Safeguarding policy
 
 **[BOOM CYCLE](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
 _(March/2014 - January/2018)_
 
-- Production of monthly Front of House team rotas 
-- Bike maintenance of 100 indoor cycling bikes
-- Coordinating with outside vendors to ensure 2 studios adhered to H&S standards
+- Leading front of house team
+- Production of monthly staff rotas 
+- Maintenance of 100 indoor cycling bikes
+- Coordinating with outside vendors to ensure adherence to H&S standards
 
 ## Skills
 
-#### Fast Learner
-At Makers, we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using React. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
-
 #### Problem Solving
 
-The blending of maths and physics to solve practical real world problems was what initially convinced me that engineering was for me. For 4 years I was instructed on how to break down problems into small achievable actions, how to find multiple solutions and select the most appropriate. It was impressed upon me to benefits of having a holistic perspective to problem solving, to working to end-user requirements and the importance of taking account of all stakeholders wants and needs.  I find this approach to problem solving works best and I have seen the benefits to this approach in software development. I have a 3 Star Silver Badge for Problem Solving on Hackerrank.
+The blending of maths and physics to solve practical real world problems was what convinced me that engineering was for me. For 4 years I was instructed on how to break down problems into small achievable actions, how to find multiple solutions and the select the most appropriate. The benefits of having a holistic approach to problem solving, to working to end-user requirements and the importance of taking account of all stakeholders wants and needs was impressed upon me during my degree. I am able to utilise this knowledge when employing an Agile development process, which has been described as 'Strong' in my last review. I also have a 3 Star Silver Badge for Problem Solving on Hackerrank.
 
 #### Commnuication
 
-I refined my communication skills when leading a diverse team as Manager of a well established mixed martial arts gym in London. I regularly would teach martial arts to beginners and prided myself on being able to breakdown complex techniques to those new to them. On my latest review my ability to justify the way I worked was described as being 'Strong' and this would allow my development to accelerate around experienced teammates as I could convey clearly why I was doing something the way I was. 
+I refined my communication skills when leading a diverse team as Manager of a well established mixed martial arts gym in London. I regularly would teach martial arts to beginners and prided myself on being able to breakdown complex techniques to those new to them. On my latest review my ability to justify the way I worked was described as being 'Strong' and this would allow me to immediately contribute to the success of a team and accelerate my development around experienced teammates.
+
+#### Fast Learner
+At Makers, we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using React. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
 
 ## Education
 
@@ -169,3 +173,4 @@ _(2002 - 2007)_
 ## Interests
 * European Silver Medalis in the sport of Brazilian Jiu Jitsu, currently a Purple Belt - [Check out a fight of mine at a recent competition](https://www.youtube.com/watch?v=HnCic_9FHy8)
 * Voracious book and Financial Times reader
+* Big fan of Uncle Bob, Douglas Crockford, Kent Beck, Martin Fowler and Rich Hickey
