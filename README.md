@@ -27,7 +27,7 @@
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
 |--|--|--|--|--|--|
 | [Fruit Machine](https://github.com/rjkviegas/fruit-machine) | A program simulating a fruit machine, built using TDD. | 3 days | Python | Pytest| N/A |
-| [Till Tech Test](https://github.com/rjkviegas/till-tech-test) | A program for creating receipts, built using TDD and showcasing refactoring skills. | 5 days | JavaScript | Jasmine, Istanbul, Express, Handlebars| N/A |
+| [Till Tech Test aka Ryan's Receipts](https://github.com/rjkviegas/till-tech-test) | A program for creating receipts and server added for display of receipt in HTML format. | 5 days | JavaScript | Jasmine, Istanbul, Express, Handlebars| N/A |
 | [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 created a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 | [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
 | [Only Fours and Horses Acebook](https://github.com/rjkviegas/acebook-onlyfoursandhorses)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL| RSpec, Capybara, Travis CI & CD | [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)|
