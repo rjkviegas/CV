@@ -26,9 +26,9 @@
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
 |--|--|--|--|--|--|
-| [Fruit Machine](https://github.com/rjkviegas/fruit-machine) | A program simulating a fruit machine, built using TDD. | 3 days | Python | Pytest| N/A |
-| [Till Tech Test aka Ryan's Receipts](https://github.com/rjkviegas/till-tech-test) | A program for creating receipts and server added for display of receipt in HTML format. | 5 days | JavaScript | Jasmine, Istanbul, Express, Handlebars| N/A |
-| [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 created a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
+| [Till Tech Test aka Ryan's Receipts](https://github.com/rjkviegas/till-tech-test) | A receipt creating API. | Ongoing | JavaScript, HTML5 | Express, Jasmine, Istanbul, Handlebars, Postman-Request| N/A |
+| [Fruit Machine](https://github.com/rjkviegas/fruit-machine) | A fruit machine simulation, built using TDD. | Ongoing | Python | Pytest| N/A |
+| [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 came together to create a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 | [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
 | [Only Fours and Horses Acebook](https://github.com/rjkviegas/acebook-onlyfoursandhorses)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL| RSpec, Capybara, Travis CI & CD | [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)|
 
@@ -49,22 +49,24 @@
       <td style="vertical-align: top">
         <ul>
           <li>Javascript</li>
+          <li>Python</li>
           <li>Ruby</li>
           <li>HTML5</li>
           <li>CSS3</li>
-          <li>Python</li>
         </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
+          <li>Node.JS</li>
+          <li>Express</li>
           <li>React</li>
-          <li>Node.js</li>
           <li>Rails</li>
           <li>Sinatra</li>
           <li>jQuery</li>
           <li>PostgreSQL</li>
           <li>TravisCI</li>
           <li>Heroku</li>
+          <li>Netlify</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -122,7 +124,7 @@ Key achievements:
 
 - Oversaw the membership total grow from 1,000 to 1,500
 - Boosted the annual conversion rate by 15%
-- Introduction of new techologies to improve business processes
+- Introduction of new technologies to improve business processes
 - Creating the Safeguarding policy
 
 **[BOOM CYCLE](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
@@ -137,14 +139,14 @@ _(March/2014 - January/2018)_
 
 #### Problem Solving
 
-The blending of maths and physics to solve practical real world problems was what convinced me that engineering was for me. For 4 years I was instructed on how to break down problems into small achievable actions, how to find multiple solutions and the select the most appropriate. The benefits of having a holistic approach to problem solving, to working to end-user requirements and the importance of taking account of all stakeholders wants and needs was impressed upon me during my degree. I am able to utilise this knowledge when employing an Agile development process, which has been described as 'Strong' in my last review. I also have a 3 Star Silver Badge for Problem Solving on Hackerrank.
+The blending of maths and physics to solve practical real world problems was what convinced me that engineering was for me. For 4 years I was instructed on how to break down problems into small achievable actions, how to find multiple solutions and then select the most appropriate. The benefits of having a holistic approach to problem solving, to working to end-user requirements and the importance of taking account of all stakeholders wants and needs was impressed upon me during my degree. I am able to utilise this knowledge when employing an Agile development process, which has been described as 'Strong' in my last review. I also have a 3 Star Silver Badge for Problem Solving on Hackerrank.
 
-#### Commnuication
+#### Communication
 
-I refined my communication skills when leading a diverse team as Manager of a well established mixed martial arts gym in London. I regularly would teach martial arts to beginners and prided myself on being able to breakdown complex techniques to those new to them. On my latest review my ability to justify the way I worked was described as being 'Strong' and this would allow me to immediately contribute to the success of a team and accelerate my development around experienced teammates.
+I refined my communication skills when leading a diverse team as Manager of a well established mixed martial arts gym in London. I regularly would teach martial arts to beginners and prided myself on being able to breakdown complex techniques to those new to them. During my latest review my ability to justify the way I worked was described as being 'Strong' and this would allow me to immediately contribute to the success of a team and accelerate my development around experienced teammates.
 
 #### Fast Learner
-At Makers, we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using React. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
+At Makers we were continually pushed to grow and develop our skills on a daily basis. After spending most of the course learning Ruby, I was quickly able to pick up Javascript and start implementing it to build simple web apps. For our final group project, we took this a step further and built our project using React. Having not being taught any of these technologies during the course, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
 
 ## Education
 
