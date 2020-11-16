@@ -26,7 +26,7 @@
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
 |--|--|--|--|--|--|
-| [Till Tech Test aka Ryan's Receipts](https://github.com/rjkviegas/till-tech-test) | A receipt creating API. | Ongoing | JavaScript, HTML5 | Express, Jasmine, Istanbul, Handlebars, Postman-Request| N/A |
+| [Ryan's Receipts](https://github.com/rjkviegas/ryans=receipts) | A receipt generating API hosted on AWS (EC2). | Ongoing | JavaScript, HTML5 | AWS (EC2), Nginx, PM2, Express, Jasmine, Istanbul, Postman-Request| http://3.8.131.158/makereceipt |
 | [Fruit Machine](https://github.com/rjkviegas/fruit-machine) | A fruit machine simulation, built using TDD. | Ongoing | Python | Pytest| N/A |
 | [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 came together to create a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 | [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
@@ -97,6 +97,8 @@
           <li>Git</li>
           <li>OSX</li>
           <li>WSL2</li>
+          <li>AWS</li>
+          <li>Nginx</li>
         </ul>
       </td>
     </tr>
