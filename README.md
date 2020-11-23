@@ -28,10 +28,8 @@
 |--|--|--|--|--|--|
 | [Ryan's Receipts ](https://github.com/rjkviegas/ryans=receipts) | A React front end for using the Ryan's Receipts API. | Ongoing | JavaScript, HTML, CSS | Netlify, React, Bootstrap| https://ryansreceipts.com |
 | [Ryan's Receipts API](https://github.com/rjkviegas/ryans=receipts) | A receipt generating API hosted on AWS (EC2). | Ongoing | JavaScript | AWS (EC2), Nginx, PM2, Express, Jasmine, Istanbul, Postman-Request| https://api.ryansreceipts.com |
-| [Fruit Machine](https://github.com/rjkviegas/fruit-machine) | A fruit machine simulation, built using TDD. | Ongoing | Python | Pytest| N/A |
+| [Fruit Machine](https://github.com/rjkviegas/fruit-machine) | A command line fruit machine simulation, built using TDD. | Ongoing | Python | Pytest| N/A |
 | [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 came together to create a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
-| [Bank Tech Test](https://github.com/rjkviegas/bank-tech-test) | A command line program emulating a bank account, showcasing test driven development. | 2 days | Ruby | RSpec| N/A |
-| [Only Fours and Horses Acebook](https://github.com/rjkviegas/acebook-onlyfoursandhorses)| A team of 4 came together to recreate our own version of Facebook.| 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL| RSpec, Capybara, Travis CI & CD | [Heroku deployment](http://intense-scrubland-58731.herokuapp.com)|
 
 ## Technical Knowledge
 
@@ -52,8 +50,8 @@
           <li>Javascript</li>
           <li>Python</li>
           <li>Ruby</li>
-          <li>HTML5</li>
-          <li>CSS3</li>
+          <li>HTML</li>
+          <li>CSS</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -61,6 +59,9 @@
           <li>Node.JS</li>
           <li>Express</li>
           <li>React</li>
+          <li>AWS</li>
+          <li>Nginx</li>
+          <li>PM2</li>
           <li>Rails</li>
           <li>Sinatra</li>
           <li>jQuery</li>
@@ -98,8 +99,6 @@
           <li>Git</li>
           <li>OSX</li>
           <li>WSL2</li>
-          <li>AWS</li>
-          <li>Nginx</li>
         </ul>
       </td>
     </tr>
