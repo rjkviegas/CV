@@ -26,8 +26,8 @@
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | Deployment |
 |--|--|--|--|--|--|
-| [Ryan's Receipts ](https://github.com/rjkviegas/ryans=receipts) | A React front end for using the Ryan's Receipts API. | Ongoing | JavaScript, HTML, CSS | Netlify, React, Bootstrap| https://ryansreceipts.com |
-| [Ryan's Receipts API](https://github.com/rjkviegas/ryans=receipts) | A receipt generating API hosted on AWS (EC2). | Ongoing | JavaScript | AWS (EC2), Nginx, PM2, Express, Jasmine, Istanbul, Postman-Request| https://api.ryansreceipts.com |
+| [Ryan's Receipts ](https://github.com/rjkviegas/ryans-receipts-react) | A React front end for using the Ryan's Receipts API. | Ongoing | JavaScript, HTML, CSS | Netlify, React, Bootstrap| https://ryansreceipts.com |
+| [Ryan's Receipts API](https://github.com/rjkviegas/ryans-receipts-api) | A receipt generating API hosted on AWS (EC2). | Ongoing | JavaScript | AWS (EC2), Nginx, PM2, Express, Jasmine, Istanbul, Postman-Request| https://api.ryansreceipts.com |
 | [Fruit Machine](https://github.com/rjkviegas/fruit-machine) | A command line fruit machine simulation, built using TDD. | Ongoing | Python | Pytest| N/A |
 | [Maelstrom](https://github.com/rjkviegas/Maelstrom)| A team of 5 came together to create a fantasy turned based role playing game.| 2 weeks| React, JavaScript, HTML5/CSS| Jest, Travis CI & CD |[Netlify Deployment](https://maelstrom-rpg.netlify.app/)|
 
