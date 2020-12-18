@@ -130,7 +130,7 @@ Key achievements:
 - Creating the Safeguarding policy
 
 **[BOOM CYCLE](https://www.boomcycle.co.uk/), Front Desk Lead and Facilities Manager**
-_(March/2014 - January/2018)_
+_(March/2015 - June/2018)_
 
 - Leading front of house team
 - Production of monthly staff rotas 
